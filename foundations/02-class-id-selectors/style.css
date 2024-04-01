@@ -1,0 +1,19 @@
+.impares {
+  background-color: rgb(255, 129, 129);
+  font-family: "Verdana", "DejaVue Sans", sans-serif;
+}
+
+#second {
+  color: blue;
+  font-size: 36px;
+}
+
+.third {
+  font-size: 24px;
+}
+
+#fourth {
+  background-color: rgb(130, 255, 130);
+  font-size: 24px;
+  font-weight: bold;
+}
